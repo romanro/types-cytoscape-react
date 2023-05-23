@@ -1,5 +1,5 @@
 {
-    "name": "@types/cytoscape-react",
+    "name": "@types/cytoscape-react-roman",
     "version": "2.0.0",
     "description": "Types definitions for cytoscape-react library",
     "scripts": {
